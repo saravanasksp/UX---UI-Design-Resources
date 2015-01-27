@@ -1,4 +1,4 @@
-# Online UX & UI Design Resources
+# UX & UI Design Resources on the Web
 
 ## Index
   1. Online Prototyping 
