@@ -1,4 +1,4 @@
-Index
+## Index
   1. Online Prototyping 
   2. UI Design Patterns
   3. Colours & Gradients
@@ -9,7 +9,7 @@ Index
   8. Design Inspiration
 
 
-1. Online Prototyping
+## 1. Online Prototyping
   InVision: http://www.invisionapp.com/
   Marvel: https://marvelapp.com/
   Pixate: http://www.pixate.com/
@@ -19,13 +19,13 @@ Index
   Proto.io: http://proto.io
   Codiqa ($16/month): https://codiqa.com/
 
-2. UI Design Patterns
+## 2. UI Design Patterns
   Pttrns - Mobile User Interface Patterns: http://www.pttrns.com/
   Pttrns Beta: http://beta.pttrns.com/
   User Flow Patterns: http://userflowpatterns.com/
   User Onboarding: http://useronboarding.com
 
-3. Colours & Gradients
+## 3. Colours & Gradients
   Adobe Color CC: https://color.adobe.com/create/color-wheel/
   Color Scheme Designer: http://paletton.com/
   Color Lovers: http://colorlovers.com
@@ -33,14 +33,14 @@ Index
   Subtle Patterns: http://subtlepatterns.com/
   Material Design Color Palette Generator: http://www.materialpalette.com/
 
-4. User & Profile Photos
+## 4. User & Profile Photos
   UI Faces: http://uifaces.com/
   Impor.io: http://www.impor.io/
   Random User Generator: https://randomuser.me/
   Facebox (paid collection, royalty-free): http://facebox.io/
   Random Users Generator: http://www.designskilz.com/random-users/
   
-5. Stock Photography
+## 5. Stock Photography
   Little Visuals http://littlevisuals.co/
   Unsplash http://unsplash.com/
   Death to the Stock Photo http://join.deathtothestockphoto.com/
@@ -60,13 +60,16 @@ Index
   ISO Republic http://isorepublic.com/
   All The Free Stock: http://allthefreestock.com
 
-6. Icons
+## 6. Icons
   NounProject: http://thenounproject.com/
   Google Material Design Icons: https://github.com/google/material-design-icons/releases/tag/1.0.0
 
-7. Fonts
+## 7. Fonts & Typography
   Dafont: http://dafont.com
+  Golden Ratio Typography Calculator: http://www.pearsonified.com/typography/
 
-8. Design Inspiration
+## 8. Design Inspiration
   Codrops: http://tympanus.net/codrops/
   Unmatched Style: http://unmatchedstyle.com
+  
+## 9. Useful Tools
