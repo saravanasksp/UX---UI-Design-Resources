@@ -1,15 +1,17 @@
 # UX & UI Design Resources on the Web
 
 ## Index
-  1. Online Prototyping 
-  2. UI Design Patterns
-  3. Colours & Gradients
-  4. User & Profile Photos
-  5. Stock Photography
-  6. Icons
-  7. Fonts
-  8. Design Inspiration
-
+  1. Online Prototyping
+  2. User Testing & Feedback
+  3. UI Design Patterns
+  4. Colours & Gradients
+  5. User & Profile Photos
+  6. Stock Photography
+  7. Icons
+  8. Fonts
+  9. Design Inspiration
+  10. Useful Tools
+  11. Resources & Guides
 
 ## 1. Online Prototyping
   InVision: http://www.invisionapp.com/  
@@ -20,14 +22,28 @@
   Flinto ($20/month): https://www.flinto.com/  
   Proto.io: http://proto.io  
   Codiqa ($16/month): https://codiqa.com/  
+  
+## 2. User Testing & Feedback
+  FiveSecondTest: http://fivesecondtest.com/  
+  Verify: http://verifyapp.com/  
+  Typeform (awesome surveys):  http://www.typeform.com/  
+  User Testing: http://www.usertesting.com/  
+  Feedback Army: http://www.feedbackarmy.com/  
+  Usabilla: https://usabilla.com/  
+  CrazyEgg - Visualise where your visitors click: http://www.crazyegg.com/  
+  Try My UI: http://www.trymyui.com/  
+  Criticue: http://www.criticue.com/  
+  Feedbackify (free trial, then $19/month): http://www.feedbackify.com/  
+  Ghostrec: http://www.ghostrec.com/  
+  Concept Feedback: http://www.conceptfeedback.com/  
 
-## 2. UI Design Patterns
+## 3. UI Design Patterns
   Pttrns - Mobile User Interface Patterns: http://www.pttrns.com/  
   Pttrns Beta: http://beta.pttrns.com/  
   User Flow Patterns: http://userflowpatterns.com/  
   User Onboarding: http://useronboarding.com  
 
-## 3. Colours & Gradients
+## 4. Colours & Gradients
   Adobe Color CC: https://color.adobe.com/create/color-wheel/  
   Color Scheme Designer: http://paletton.com/  
   Color Lovers: http://colorlovers.com  
@@ -35,14 +51,14 @@
   Subtle Patterns: http://subtlepatterns.com/  
   Material Design Color Palette Generator: http://www.materialpalette.com/  
 
-## 4. User & Profile Photos
+## 5. User & Profile Photos
   UI Faces: http://uifaces.com/  
   Impor.io: http://www.impor.io/  
   Random User Generator: https://randomuser.me/  
   Facebox (paid collection, royalty-free): http://facebox.io/  
   Random Users Generator: http://www.designskilz.com/random-users/  
   
-## 5. Stock Photography
+## 6. Stock Photography
   Little Visuals http://littlevisuals.co/  
   Unsplash http://unsplash.com/  
   Death to the Stock Photo http://join.deathtothestockphoto.com/  
@@ -62,16 +78,28 @@
   ISO Republic http://isorepublic.com/  
   All The Free Stock: http://allthefreestock.com  
 
-## 6. Icons
+## 7. Icons
   NounProject: http://thenounproject.com/  
   Google Material Design Icons: https://github.com/google/material-design-icons/releases/tag/1.0.0  
 
-## 7. Fonts & Typography
+## 8. Fonts & Typography
   Dafont: http://dafont.com  
   Golden Ratio Typography Calculator: http://www.pearsonified.com/typography/  
 
-## 8. Design Inspiration
+## 9. Design Inspiration
+  Niice: http://niice.co  
   Codrops: http://tympanus.net/codrops/  
   Unmatched Style: http://unmatchedstyle.com  
+  Product Hunt: http://www.producthunt.com/  
   
-## 9. Useful Tools
+## 10. Useful Tools
+  Pixelapse - Visual Version Control for Designers: https://www.pixelapse.com/  
+  Am I Responsive?: http://ami.responsivedesign.is/  
+  
+## 11. Resources & Guides
+  Design Kit: http://www.designkit.org/  
+  Usability.gov: http://www.usability.gov/how-to-and-tools/index.html  
+  Google Material Design Guidelines: http://www.google.com/design/spec/material-design/introduction.html#  
+  iPhone 6 Screens Demystified: http://www.paintcodeapp.com/news/iphone-6-screens-demystified  
+  The 7 Deadly Sins of User Research: http://www.slideshare.net/dtravisphd/the-7-sins-of-user-research
+  
