@@ -77,6 +77,7 @@
   Raumrot http://www.raumrot.com/10/  
   ISO Republic http://isorepublic.com/  
   All The Free Stock: http://allthefreestock.com  
+  Pexels: http://www.pexels.com  
 
 ## 7. Icons
   NounProject: http://thenounproject.com/  
