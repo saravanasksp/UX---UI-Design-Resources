@@ -98,6 +98,7 @@
   
   
 ## 10. Useful Tools
+  Dunnnk - Generate Device Mockups: http://dunnnk.com/  
   Pixelapse - Visual Version Control for Designers: https://www.pixelapse.com/  
   Screen Sizes (popular device screen dimensions): http://screensiz.es/phone  
   Am I Responsive?: http://ami.responsivedesign.is/  
