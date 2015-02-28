@@ -104,6 +104,7 @@
   Screen Sizes (popular device screen dimensions): http://screensiz.es/phone  
   Am I Responsive?: http://ami.responsivedesign.is/  
   uilang - a minimal, ui-focused programming language for web designers: http://uilang.com/  
+  Hologram - build and maintain beautiful style guides: http://trulia.github.io/hologram/  
   
 ## 11. Resources & Guides
   Design Kit: http://www.designkit.org/  
