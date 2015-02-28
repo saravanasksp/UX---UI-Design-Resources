@@ -108,8 +108,8 @@
 ## 11. Resources & Guides
   Design Kit: http://www.designkit.org/  
   Repository of Design Guidelines: http://findguidelin.es  
-  Usability.gov: http://www.usability.gov/how-to-and-tools/index.html
-  Awesome easing cheatsheet with CSS and JS snippets: heep://easings.net  
+  Usability.gov: http://www.usability.gov/how-to-and-tools/index.html  
+  CSS and JS Easing Animation Cheatsheet with snippets: heep://easings.net  
   Google Material Design Guidelines: http://www.google.com/design/spec/material-design/introduction.html#  
   iPhone 6 Screens Demystified: http://www.paintcodeapp.com/news/iphone-6-screens-demystified  
   The 7 Deadly Sins of User Research: http://www.slideshare.net/dtravisphd/the-7-sins-of-user-research  
