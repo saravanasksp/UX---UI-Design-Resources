@@ -42,6 +42,7 @@
   Pttrns Beta: http://beta.pttrns.com/  
   User Flow Patterns: http://userflowpatterns.com/  
   User Onboarding: http://useronboarding.com  
+  iOS apps animated user flows: http://uxarchive.com/animated  
 
 ## 4. Colours & Gradients
   Adobe Color CC: https://color.adobe.com/create/color-wheel/  
