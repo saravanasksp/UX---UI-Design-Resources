@@ -109,6 +109,7 @@
   
 ## 11. Resources & Guides
   Design Kit: http://www.designkit.org/  
+  User Research Techniques: http://designresearchtechniques.com/  
   Repository of Design Guidelines: http://findguidelin.es  
   Usability.gov: http://www.usability.gov/how-to-and-tools/index.html  
   CSS and JS Easing Animation Cheatsheet with snippets: heep://easings.net  
