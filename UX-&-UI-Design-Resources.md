@@ -79,6 +79,7 @@
   ISO Republic http://isorepublic.com/  
   All The Free Stock: http://allthefreestock.com  
   Pexels: http://www.pexels.com  
+  Stocksy: http://www.stocksy.com/  
 
 ## 7. Icons
   NounProject: http://thenounproject.com/  
