@@ -84,6 +84,7 @@
 ## 7. Icons
   NounProject: http://thenounproject.com/  
   Google Material Design Icons: https://github.com/google/material-design-icons/releases/tag/1.0.0  
+  Flaticon (awesome): http://flaticon.com/  
 
 ## 8. Fonts & Typography
   Dafont: http://dafont.com  
