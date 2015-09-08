@@ -88,6 +88,7 @@
 
 ## 8. Fonts & Typography
   Dafont: http://dafont.com  
+  UseModify: http://usemodify.com/  
   Typewolf (Font inspiration, recommendations, and resources): http://www.typewolf.com  
   Golden Ratio Typography Calculator: http://www.pearsonified.com/typography/  
   Font pairings: http://fontsinuse.com/ http://www.typewolf.com/ http://www.typ.io/ http://blog.fontshop.com/category/great-pairs/ http://justmytype.co/ http://zurb.com/tavern/questions/what-are-your-top-5-go-to-fonts  
