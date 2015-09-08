@@ -116,7 +116,7 @@
   User Research Techniques: http://designresearchtechniques.com/  
   Repository of Design Guidelines: http://findguidelin.es  
   Usability.gov: http://www.usability.gov/how-to-and-tools/index.html  
-  CSS and JS Easing Animation Cheatsheet with snippets: heep://easings.net  
+  CSS and JS Easing Animation Cheatsheet with snippets: http://easings.net  
   Google Material Design Guidelines: http://www.google.com/design/spec/material-design/introduction.html#  
   iPhone 6 Screens Demystified: http://www.paintcodeapp.com/news/iphone-6-screens-demystified  
   The 7 Deadly Sins of User Research: http://www.slideshare.net/dtravisphd/the-7-sins-of-user-research  
