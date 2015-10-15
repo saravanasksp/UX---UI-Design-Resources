@@ -52,7 +52,8 @@
   uiGradients: http://uigraduents.com  
   Subtle Patterns: http://subtlepatterns.com/  
   Material Design Color Palette Generator: http://www.materialpalette.com/  
-
+  Blend - generate CSS3 gradients http://colinkeany.com/blend/  
+  
 ## 5. User & Profile Photos
   UI Faces: http://uifaces.com/  
   Impor.io: http://www.impor.io/  
