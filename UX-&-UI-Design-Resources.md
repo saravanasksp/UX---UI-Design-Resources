@@ -11,7 +11,8 @@
   8. Fonts
   9. Design Inspiration
   10. Useful Tools
-  11. Resources & Guides
+  11. Form Handling & Mailers
+  12. Resources & Guides
 
 ## 1. Online Prototyping
   InVision: http://www.invisionapp.com/  
@@ -111,8 +112,14 @@
   Am I Responsive?: http://ami.responsivedesign.is/  
   uilang - a minimal, ui-focused programming language for web designers: http://uilang.com/  
   Hologram - build and maintain beautiful style guides: http://trulia.github.io/hologram/  
-  
-## 11. Resources & Guides
+
+## 11. Form Handling & Mailers  
+  http://mailthis.to/  
+  https://www.elformo.com/  
+  http://flipmail.co/  
+  https://getsimpleform.com/  
+
+## 12. Resources & Guides
   Design Kit: http://www.designkit.org/  
   User Research Techniques: http://designresearchtechniques.com/  
   Repository of Design Guidelines: http://findguidelin.es  
